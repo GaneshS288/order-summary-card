@@ -129,7 +129,8 @@ main {
 
 .buttons-container > button:first-child {
     background-color: var(--bright-blue);
-    color: var(--pale-blue)
+    color: var(--pale-blue);
+    box-shadow: var(--desaturated-blue) 0px 7px 29px 0px;
 }
 
 .buttons-container > button:first-child:hover {
